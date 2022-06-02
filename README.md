@@ -1,2 +1,2 @@
-# cakura_ui
+# react-study6
 Created with CodeSandbox
